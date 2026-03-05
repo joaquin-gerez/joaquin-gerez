@@ -3,7 +3,7 @@
 **Backend Developer** | **Full Stack Explorer**
 
 I build web applications, internal tools, and backend systems with a focus on **clean architecture**, **performance**, and **practical problem-solving**.
-I’m especially interested in data-heavy workflows, scalable backends, and AI-assisted development.
+I'm especially interested in data-heavy workflows, scalable backends, and AI-assisted development.
 
 Based in **La Plata, Argentina**.
 
@@ -12,7 +12,7 @@ Based in **La Plata, Argentina**.
 * 🔭 Working on **high-performance scrapers** and **community-driven platforms**
 * 🌱 Studying **Computer Systems at UCALP**, while also learning **Algebra** and **Music Theory**
 * 💬 Ask me about **Python**, **Docker**, **backend architecture**, and **Next.js**
-* ⚡ I love the **retro-web aesthetic** and I’m learning **piano**
+* ⚡ I love the **retro-web aesthetic** and I'm learning **piano**
 
 ### Links
 
@@ -28,24 +28,26 @@ Based in **La Plata, Argentina**.
 
 ## Featured Projects
 
+### [Underground LP](https://github.com/joaquin-gerez/underground_lp) · [undergroundlp.xyz](https://undergroundlp.xyz)
+
+Portal de eventos para la escena underground de La Plata. Estética retro inspirada en GeoCities con reproductor Webamp, Snake integrado y un sistema completo de gestión de eventos con panel de admin.
+
+**Next.js · PostgreSQL · Docker · Nginx · JWT**
+
+### [R-Info Web](https://github.com/joaquin-gerez/r-info-web)
+
+Versión web moderna del clásico R-Info de la Facultad de Informática (UNLP). Compilador completo del lenguaje, robot con animaciones estilo Wall-E y ejecución en tiempo real — todo en el navegador, sin instalar nada.
+
+**Next.js · TypeScript · HTML5 Canvas · Compilador propio**
+
 ### Scraper V2
 
 A flexible scraping engine built for reliability across different data sources.
 **Python · Playwright / Selenium · Docker**
 
-### Underground LP
-
-A niche event platform for La Plata’s underground scene with a retro-web identity.
-**Next.js · PostgreSQL · WebSockets**
-
 ### Juntas Cicarelli
 
 Backend development and systems optimization for industrial operations.
-
-### R Info Web
-
-A technical dashboard for data visualization and reporting.
-**Python · React · PostgreSQL**
 
 ---
 
