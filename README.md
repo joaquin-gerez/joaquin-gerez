@@ -40,6 +40,12 @@ Versión web moderna del clásico R-Info de la Facultad de Informática (UNLP). 
 
 **Next.js · TypeScript · HTML5 Canvas · Compilador propio**
 
+### [Electro Hogar](https://github.com/joaquin-gerez/grupo_9_electrohogar)
+
+E-commerce de electrodomésticos (proyecto grupal Digital House). Fork con credenciales securizadas, variables de entorno y Docker Compose para levantar todo con un solo comando.
+
+**Express.js · MySQL · Sequelize · Docker · EJS**
+
 ### Scraper V2
 
 A flexible scraping engine built for reliability across different data sources.
