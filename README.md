@@ -28,7 +28,7 @@ Based in **La Plata, Argentina**.
 
 ### Approach
 
-I like building software that is **useful, maintainable, and scalable** — with solid backend logic, clean data handling, and a product mindset behind the code.
+I find gaps, I build things. Different problems, different tools — always something real, always for someone. I like contributing back, open source or otherwise.
 
 ---
 
