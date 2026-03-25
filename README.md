@@ -34,7 +34,7 @@ Portal de eventos para la escena underground de La Plata. Estética retro inspir
 
 **Next.js · PostgreSQL · Docker · Nginx · JWT**
 
-### [R-Info Web](https://github.com/joaquin-gerez/r-info-web)
+### [R-Info Web](https://github.com/joaquin-gerez/r-info-web) · [r-info-web.vercel.app](https://r-info-web.vercel.app)
 
 Versión web moderna del clásico R-Info de la Facultad de Informática (UNLP). Compilador completo del lenguaje, robot con animaciones estilo Wall-E y ejecución en tiempo real — todo en el navegador, sin instalar nada.
 
@@ -51,9 +51,11 @@ E-commerce de electrodomésticos (proyecto grupal Digital House). Fork con crede
 A flexible scraping engine built for reliability across different data sources.
 **Python · Playwright / Selenium · Docker**
 
-### Juntas Cicarelli
+### [Juntas Ciccarelli](https://www.ciccarelli.com.ar)
 
-Backend development and systems optimization for industrial operations.
+Web institucional para fabricante argentino de juntas y sellados. Diseño del layout y la estética completa, mapa de ubicación, secciones de contenido, y panel de administración con CRUDs de noticias.
+
+**Node.js · Express · Sequelize · SQL**
 
 ---
 
