@@ -18,7 +18,6 @@ Based in **La Plata, Argentina**.
 
 * 🌐 **Portfolio:** [joaquingerez.dev](https://joaquingerez.dev)
 * 📝 **Blog:** [joaquingerez.dev/blog](https://joaquingerez.dev/blog)
-* 📫 **LinkedIn:** [joaquinlgerez](https://linkedin.com/in/joaquinlgerez)
 
 ### Tech Stack
 
