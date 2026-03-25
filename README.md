@@ -20,9 +20,21 @@ Based in **La Plata, Argentina**.
 * 📝 **Blog:** [joaquingerez.dev/blog](https://joaquingerez.dev/blog)
 * 📫 **LinkedIn:** [joaquinlgerez](https://linkedin.com/in/joaquinlgerez)
 
-### Tech
+### Tech Stack
 
-**Python, FastAPI, Django, Node.js, PostgreSQL, React, Next.js, TypeScript, Docker, Linux**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,express,ts,react,nextjs&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux&theme=dark" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rabbitmq,playwright,pytest,sequelize&theme=dark" />
+</p>
+
+### Approach
+
+I like building software that is **useful, maintainable, and scalable** — with solid backend logic, clean data handling, and a product mindset behind the code.
 
 ---
 
@@ -57,8 +69,3 @@ Web institucional para fabricante argentino de juntas y sellados. Diseño del la
 
 **Node.js · Express · Sequelize · SQL**
 
----
-
-## Approach
-
-I like building software that is **useful, maintainable, and scalable** — with solid backend logic, clean data handling, and a product mindset behind the code.
