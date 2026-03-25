@@ -23,7 +23,7 @@ Based in **La Plata, Argentina**.
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,express,ts,react,nextjs,postgres,mysql,redis,docker,nginx,linux,rabbitmq,pytest,sequelize,selenium&theme=dark&perLine=9" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,express,ts,react,nextjs,postgres,mysql,redis,docker,nginx,linux,rabbitmq,sequelize,selenium&theme=dark&perLine=9" />
 </p>
 
 ### Approach
