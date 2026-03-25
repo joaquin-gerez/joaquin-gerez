@@ -9,10 +9,10 @@ Based in **La Plata, Argentina**.
 
 ### About me
 
-* 🔭 Working on **high-performance scrapers** and **community-driven platforms**
-* 🌱 Studying **Computer Systems at UCALP**, while also learning **Algebra** and **Music Theory**
+* 🔭 Working on projects that help people and solve small, real problems
+* 🌱 Studying **Licenciatura en Sistemas** at **Universidad Católica de La Plata** — currently taking Mathematics, Algebra, English II, and Philosophy (yes, Philosophy)
 * 💬 Ask me about **Python**, **Docker**, **backend architecture**, and **Next.js**
-* ⚡ I love the **retro-web aesthetic** and I'm learning **piano**
+* ⚡ Outside of code I read, play piano, and fall down rabbit holes around music theory, music production, and synthesizers — I'm a sucker for electronic sound and machines that make noise
 
 ### Links
 
