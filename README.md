@@ -32,34 +32,20 @@ I like building software that is **useful, maintainable, and scalable** — with
 
 ---
 
-## Featured Projects
+## Projects
 
-### [Underground LP](https://github.com/joaquin-gerez/underground_lp) · [undergroundlp.xyz](https://undergroundlp.xyz)
+→ **[Underground LP](https://github.com/joaquin-gerez/underground_lp)** · [undergroundlp.xyz](https://undergroundlp.xyz) — portal de eventos para la escena underground de La Plata, estética retro GeoCities, Webamp y panel de admin
+`Next.js` `PostgreSQL` `Docker` `Nginx` `JWT`
 
-Portal de eventos para la escena underground de La Plata. Estética retro inspirada en GeoCities con reproductor Webamp, Snake integrado y un sistema completo de gestión de eventos con panel de admin.
+→ **[r-info/web](https://github.com/joaquin-gerez/r-info-web)** · [r-info-web.vercel.app](https://r-info-web.vercel.app) — IDE web del clásico R-Info de Informática UNLP, compilador propio y robot en tiempo real desde el navegador
+`Next.js` `TypeScript` `HTML5 Canvas`
 
-**Next.js · PostgreSQL · Docker · Nginx · JWT**
+→ **[Electro Hogar](https://github.com/joaquin-gerez/grupo_9_electrohogar)** — e-commerce de electrodomésticos (Digital House), Docker Compose y variables de entorno securizadas
+`Express` `MySQL` `Sequelize` `Docker`
 
-### [R-Info Web](https://github.com/joaquin-gerez/r-info-web) · [r-info-web.vercel.app](https://r-info-web.vercel.app)
+→ **Scraper V2** — motor de scraping flexible y confiable para múltiples fuentes de datos
+`Python` `Selenium` `Docker`
 
-Versión web moderna del clásico R-Info de la Facultad de Informática (UNLP). Compilador completo del lenguaje, robot con animaciones estilo Wall-E y ejecución en tiempo real — todo en el navegador, sin instalar nada.
-
-**Next.js · TypeScript · HTML5 Canvas · Compilador propio**
-
-### [Electro Hogar](https://github.com/joaquin-gerez/grupo_9_electrohogar)
-
-E-commerce de electrodomésticos (proyecto grupal Digital House). Fork con credenciales securizadas, variables de entorno y Docker Compose para levantar todo con un solo comando.
-
-**Express.js · MySQL · Sequelize · Docker · EJS**
-
-### Scraper V2
-
-A flexible scraping engine built for reliability across different data sources.
-**Python · Playwright / Selenium · Docker**
-
-### [Juntas Ciccarelli](https://www.ciccarelli.com.ar)
-
-Web institucional para fabricante argentino de juntas y sellados. Diseño del layout y la estética completa, mapa de ubicación, secciones de contenido, y panel de administración con CRUDs de noticias.
-
-**Node.js · Express · Sequelize · SQL**
+→ **[Juntas Ciccarelli](https://www.ciccarelli.com.ar)** — web institucional para fabricante argentino, diseño frontend completo y panel admin con CRUDs
+`Node.js` `Express` `Sequelize`
 
