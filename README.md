@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joaquin Gerez
 
-**Backend Developer** | **Full Stack Explorer**
+**Software Developer** | **Research and development**
 
 I build web applications, internal tools, and backend systems with a focus on **clean architecture**, **performance**, and **practical problem-solving**.
 I'm especially interested in data-heavy workflows, scalable backends, and AI-assisted development.
