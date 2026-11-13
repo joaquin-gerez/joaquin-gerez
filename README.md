@@ -1,40 +1,26 @@
 # Joaquín Gerez
 
-**Backend Engineer · Data & Automation**<br>
-`La Plata, Argentina` · [Portfolio y notas](https://joaquingerez.dev)
+**Software Engineer**<br>
+Systems, data & automation
 
-Desarrollo APIs, integraciones y herramientas para procesar información y automatizar tareas. Trabajo con Python, TypeScript y bases de datos relacionales; Docker y Linux forman parte de mi entorno de trabajo.
+I develop backend services, data workflows, and automation tools, alongside the interfaces people use to operate them. My professional work includes document processing, APIs, messaging, browser automation, scheduled tasks, and real-time notifications.
 
-Además del backend, construyo las interfaces que conectan esos sistemas con quienes los usan.
+Across my projects, I work on collecting and structuring information, connecting systems, and making complex workflows easier to operate. That includes news ingestion and comparison, a browser-based programming environment, and applications with local AI integrations. Python, TypeScript, relational databases, Docker, and Linux are recurring parts of my work.
 
----
+## Projects
 
-### Proyectos seleccionados
+- **[r-info/web](https://r-info-web.vercel.app)** — A browser-based programming environment for R-Info, with a code editor, compiler, and robot simulator. Under review · private source. `TypeScript` `Next.js` `React` `CodeMirror`
+- **[Letterbondi](https://github.com/joaquin-gerez/letterbondi)** — A social travel journal for Argentine public transport, with a searchable catalog, trip reviews, and an HTTP API. `TypeScript` `React` `Express` `SQLite/libSQL` `Docker`
+- **[Umbral](https://github.com/joaquin-gerez/umbral)** — A Chrome extension that adds a pause before repeat visits to distracting sites, with optional local ambient audio. `JavaScript` `Manifest V3` `HTML/CSS`
+- **Botkita** — A local browser monitor for ticket availability, with manual login, bounded refreshes, alerts, and limited sector-entry controls. Private source. `Python` `Camoufox` `Playwright`
+- **[Underground LP](https://undergroundlp.xyz)** — An events portal for La Plata's underground scene, with public submissions and moderation before publication. Private source. `Next.js` `React` `PostgreSQL` `Docker`
+- **Condor** — An MVP for a local Linux coding agent, combining local inference, Aider, and a specification-driven plan/apply workflow. Private source. `llama.cpp` `Aider` `Docker` `Linux`
+- **Botonera Sonidos** — A shared office soundboard with rooms, sound uploads, and synchronized playback controls. Private source. `Next.js` `TypeScript` `Go` `WebSockets` `Docker`
 
-**01 / [Letterbondi](https://github.com/joaquin-gerez/letterbondi)**<br>
-Archivo social de viajes en transporte público argentino. Catálogo con fuentes documentadas, registro de recorridos y API HTTP.<br>
-`TypeScript` `React` `Express` `SQLite / libSQL`
+## Stack
 
-**02 / [Underground LP](https://undergroundlp.xyz)**<br>
-Agenda cultural de La Plata con publicación de eventos y administración de contenidos.<br>
-`Next.js` `PostgreSQL` `Docker` `Nginx`
+Python · Django / FastAPI · TypeScript · React / Next.js · Node.js / Express · PostgreSQL · Docker · Linux
 
-**03 / [r-info/web](https://r-info-web.vercel.app)**<br>
-Entorno de programación en el navegador para R-Info: editor, compilador y simulación visual de un robot.<br>
-`TypeScript` `Next.js` `Canvas`
+Based in La Plata, Argentina. Studying Licenciatura en Sistemas at UCALP. Outside software: piano, music production, and synthesizers.
 
-<details>
-<summary>Más trabajo y contexto técnico</summary>
-
-- [Umbral](https://github.com/joaquin-gerez/umbral): extensión de Chrome para espaciar visitas a sitios. Reglas y preferencias locales, Manifest V3 y audio generativo sin streaming.
-- Backend e integraciones: Python, Django / DRF, Node.js y Express.
-- Datos y ejecución: PostgreSQL, MySQL, Docker y Linux.
-- Licenciatura en Sistemas en curso, Universidad Católica de La Plata.
-
-Los proyectos con repositorio público incluyen instrucciones para ejecutarlos. Underground LP y r-info/web enlazan a sus aplicaciones; su código es privado.
-
-</details>
-
----
-
-[Contacto](mailto:joaquinlgerez@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joaquin-gerez/) · [Portfolio](https://joaquingerez.dev)
+[Portfolio & writing](https://joaquingerez.dev) · [LinkedIn](https://www.linkedin.com/in/joaquin-gerez/) · [Email](mailto:joaquinlgerez@gmail.com)
